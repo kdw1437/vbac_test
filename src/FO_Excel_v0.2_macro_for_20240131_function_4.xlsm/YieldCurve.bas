@@ -118,7 +118,7 @@ Sub InputYieldCurves()
 Continue:
         Next item
         
-        ' After inputting all data for this currency, sort the data
+        
         ' After inputting all data for this currency, sort the data
         If TenorRow > FirstDataRow Then ' Check if any data was input
             ' Calculate the number of rows to sort
